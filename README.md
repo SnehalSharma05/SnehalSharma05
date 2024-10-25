@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ShadowBound](https://github.com/SnehalSharma05/ShadowBound)
 
-- 🌱 I’m currently learning **Game Dev**
+- 🌱 I’m currently learning **Blockchain**
 
 - 🤝 I’m looking for help with **ML**
 
