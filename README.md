@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Snehal Sharma</h1>
 <h3 align="center">A passionate developer from Bengaluru, India</h3>
 
-- 🔭 I’m currently working on [ShadowBound](https://github.com/SnehalSharma05/ShadowBound)
+- 🔭 I’m currently working on [VibeChain](https://github.com/SnehalSharma05/VibeChain)
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Web3/Blockchain**
 
 - 🤝 I’m looking for help with **ML**
 
